@@ -5,44 +5,9 @@
   <em>alova is a fullstack request strategy library, organizing request logic into ready-to-use request strategies.</em>
 </p>
 
-<p align="center">English | <a href="./README.zh-CN.md">中文</a> | <a href="./README.ja-JP.md">日本語</a></p>
-
 <p align="center">
   <a href="https://alova.js.org">Documentation</a> | 
   <a href="https://alova.js.org/examples">Demos</a>
-</p>
-
-[![npm](https://img.shields.io/npm/v/alova)](https://www.npmjs.com/package/alova)
-[![build](https://github.com/alovajs/alova/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/alovajs/alova/actions/workflows/release.yml)
-[![coverage status](https://coveralls.io/repos/github/alovajs/alova/badge.svg?branch=main)](https://coveralls.io/github/alovajs/alova?branch=main)
-[![stars](https://img.shields.io/github/stars/alovajs/alova?style=social)](https://github.com/alovajs/alova)
-[![discord](https://img.shields.io/badge/chat-Discord-515ff1)](https://discord.gg/S47QGJgkVb)
-[![wechat](https://img.shields.io/badge/chat_with_CH-Wechat-07c160)](https://alova.js.org/img/wechat_qrcode.jpg)
-[![tree shaking](https://badgen.net/bundlephobia/tree-shaking/alova)](https://bundlephobia.com/package/alova)
-![typescript](https://badgen.net/badge/icon/typescript?icon=typescript&label)
-![strategies](https://img.shields.io/badge/strategies-20%2B-blue)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-## Sponsors
-
-Thanks to these generous sponsors for supporting alova's development.
-
-<p align="center">
-  <a href="https://watchthis.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://alova.js.org/img/sponsors/watchthis-dev-500.png" alt="watchthis.dev" height="80" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://worma.js.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://worma.js.org/img/logo.svg" alt="worma" height="80" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sealedrose.com/verify-video" title="Sealed Rose — AI Deepfake Detector" target="_blank" rel="noopener noreferrer">
-    <img src="https://alova.js.org/img/sponsors/mark-pure-white-wax.png" alt="Sealed Rose — AI Deepfake Detector" height="80" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jamfeed.com/tools/instagram-account-analyzer-for-musicians/" title="JamFeed — Instagram Account Analyzer for Musicians" target="_blank" rel="noopener noreferrer">
-    <img src="https://alova.js.org/img/sponsors/jamfeed.png" alt="JamFeed — Instagram Account Analyzer for Musicians" height="80" />
-  </a>
 </p>
 
 ## What is alova
